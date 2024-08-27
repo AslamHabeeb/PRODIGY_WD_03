@@ -1,6 +1,8 @@
 # Tic Tac Toe Game
 
 A simple and visually appealing Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
+Try the gameout :
+https://ilovexo.netlify.app
 
 ## Description
 
